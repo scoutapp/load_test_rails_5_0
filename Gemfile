@@ -47,4 +47,4 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'scout_apm', git: 'https://github.com/scoutapp/scout_apm_ruby.git', branch: 'background_jobs_mem_ar_refactor'
+gem 'scout_apm'
